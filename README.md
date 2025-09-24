@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekharg62&label=Profile%20views&color=0e75b6&style=flat"
         alt="sekharg62" /> </p>
 
-- 🔭 I’m currently working on **full stack project**
+- 🔭 I’m currently working on **Full Stack JavaScript Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
